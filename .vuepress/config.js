@@ -87,7 +87,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "sanyuan",
+    "author": "Zhaha",
     "authorAvatar": "/avatar.jpg",
     "record": "xxxx",
     "startYear": "2020"
